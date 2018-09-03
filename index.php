@@ -378,7 +378,7 @@
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="sms.html">
             <i class="fa fa-envelope"></i> <span>SMS</span>
             <span class="pull-right-container">
               <small class="label pull-right bg-green">A faire</small>
